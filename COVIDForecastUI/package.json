@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@eva-design/eva": "^2.0.0-alpha.1",
-    "@expo/webpack-config": "^0.12.1",
+    "@expo/webpack-config": "^0.12.82",
     "@react-native-community/async-storage": "^1.9.0",
     "@react-native-community/masked-view": "0.1.6",
     "@react-navigation/native": "^5.1.6",
